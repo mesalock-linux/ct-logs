@@ -9,4 +9,4 @@ homepage = "https://github.com/ctz/ct-logs"
 repository = "https://github.com/ctz/ct-logs"
 
 [dependencies]
-sct = "0.4"
+sct = { git = "https://github.com/mesalock-linux/sct.rs", branch = "bincat-sm" }
